@@ -1,4 +1,4 @@
-# convex-env
+# convex-env-cli
 
 CLI tool for managing Convex environment variables with support for multiline values (like PEM keys).
 
@@ -13,9 +13,9 @@ The Convex CLI doesn't handle multiline environment variables well - values star
 ## Installation
 
 ```bash
-npm install -g convex-env
+npm install -g convex-env-cli
 # or
-pnpm add -g convex-env
+pnpm add -g convex-env-cli
 ```
 
 ## Usage

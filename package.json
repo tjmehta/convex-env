@@ -1,5 +1,5 @@
 {
-  "name": "convex-env",
+  "name": "convex-env-cli",
   "version": "1.0.0",
   "description": "CLI tool for managing Convex environment variables",
   "type": "module",
