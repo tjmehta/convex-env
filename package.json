@@ -1,6 +1,6 @@
 {
   "name": "convex-env",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "CLI tool for managing Convex environment variables",
   "type": "module",
   "main": "dist/index.js",
